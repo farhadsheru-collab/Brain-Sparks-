@@ -1,0 +1,7 @@
+{
+  "name": "Brain Sparks",
+  "description": "An infinite brain gaming app with procedural mind puzzles, animated speed challenges, logic riddles, and unlockable skill perks powered by reward coins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
